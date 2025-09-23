@@ -1,6 +1,6 @@
 # Polygon.io XGBoost HFT Trading System
 
-A sophisticated high-frequency trading system that combines XGBoost machine learning with technical analysis for automated stock trading using Polygon.io market data.
+A sophisticated high-frequency trading system that combines XGBoost machine learning with technical analysis for automated stock trading using Polygon.io stock market data.
 
 ## Features
 
