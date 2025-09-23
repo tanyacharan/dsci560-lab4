@@ -1065,4 +1065,5 @@ def simulate_production_week(bot: TradingBot, week_number: int):
 # # 1. polygon.io data collection running continuously
 # # 2. Real trading API calls (Alpaca, etc.)
 # # 3. Automated weekly retraining pipeline
+
 # # 4. Risk management and monitoring systems
