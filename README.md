@@ -68,17 +68,18 @@ cp .env.example .env
 # Required
 POLYGON_API_KEY=your_polygon_api_key_here
 
-# Trading Parameters
-INITIAL_CAPITAL=50000
-TECH_ALLOCATION_PCT=6
-NON_TECH_ALLOCATION_PCT=9
-BASE_STOP_LOSS_BPS=8
-MAX_STOP_LOSS_BPS=20
-PREDICTION_THRESHOLD_BPS=2
+# Trading Parameters are currently hardcoded. TODO: Update later
+# INITIAL_CAPITAL=500000
+# TECH_ALLOCATION_PCT=6/100
+# NON_TECH_ALLOCATION_PCT=9/100
+# BASE_STOP_LOSS_BPS=8
+# MAX_STOP_LOSS_BPS=20
+# PREDICTION_THRESHOLD_BPS=2
 ```
 
 ### Default Ticker List
-The system trades the following stocks:
+The system trades the following stocks, subject to change:
+
 - **Tech**: AAPL, META, NVDA, PFE, PLTR, UBER, NFLX
 - **Non-Tech**: BAC, V
 
@@ -156,10 +157,10 @@ trader = PolygonXGBoostHFTTrader(
 - **End-of-Day**: Automatic liquidation at market close
 
 ### Risk Controls
-- **Prediction Threshold**: Only trade when predictions ≥±2 basis points
+- **Prediction Threshold**: Only trade when predictions ≥ ±2 basis points
 - **Capital Limits**: Maximum 90% capital utilization
 - **Position Sizing**: Dynamic allocation based on stock category
-- **Time Limits**: No new positions after 3:50 PM
+- **Time Limits**: No new positions and cut losses after 3:50PM, force sell at 3:55PM
 
 ## Output Structure
 
@@ -199,7 +200,7 @@ Polygon.io API → Historical Data → Technical Features → XGBoost Model → 
 
 ## Risk Warnings
 
-**This is educational/research software. Important considerations:**
+**This is educational/research software. As such, important considerations must be noted:**
 
 - **Paper Trading Only**: This system is designed for backtesting and analysis
 - **Market Risk**: Past performance does not guarantee future results
