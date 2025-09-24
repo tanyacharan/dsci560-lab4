@@ -1,5 +1,0 @@
-# Environment and secrets
-.env
-
-# Ignore historical data CSVs but keep results and config
-run_*/historical_data_*.csv
