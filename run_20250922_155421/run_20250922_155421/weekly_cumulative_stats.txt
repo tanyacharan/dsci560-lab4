@@ -1,0 +1,931 @@
+CUMULATIVE WEEKLY PERFORMANCE STATS
+============================================================
+Start Date: 2025-01-05
+Initial Capital: $500,000.00
+============================================================
+
+
+WEEK 1: 2025-01-05 to 2025-01-11
+----------------------------------------
+Starting Portfolio Value: $500,000.00
+Ending Portfolio Value: $497,193.35
+Week Return: -0.56%
+Weekly Profit: $-2,806.65 (-0.56%)
+Total Trades: 389
+Week Fees: $179.58
+Current Cash: $497,193.35
+Active Positions: 0
+Cumulative Return: -0.56%
+
+Per-Ticker P&L:
+  AAPL: $-469.54
+  BAC: $-527.19
+  META: $-152.05
+  NFLX: $-582.77
+  NVDA: $-619.62
+  PFE: $16.28
+  PLTR: $-880.68
+  TSLA: $-245.25
+  UBER: $249.71
+  V: $486.33
+----------------------------------------
+
+WEEK 2: 2025-01-12 to 2025-01-18
+----------------------------------------
+Starting Portfolio Value: $497,193.35
+Ending Portfolio Value: $506,564.57
+Week Return: +1.88%
+Weekly Profit: $9,371.22 (+1.88%)
+Total Trades: 375
+Week Fees: $525.34
+Current Cash: $506,564.57
+Active Positions: 0
+Cumulative Return: +1.31%
+
+Per-Ticker P&L:
+  AAPL: $1,672.41
+  BAC: $378.91
+  META: $-415.33
+  NFLX: $564.71
+  NVDA: $2,159.36
+  PFE: $-111.91
+  PLTR: $2,583.47
+  TSLA: $958.83
+  UBER: $3.80
+  V: $1,816.41
+----------------------------------------
+
+WEEK 3: 2025-01-19 to 2025-01-25
+----------------------------------------
+Starting Portfolio Value: $506,564.57
+Ending Portfolio Value: $524,756.07
+Week Return: +3.59%
+Weekly Profit: $18,191.50 (+3.59%)
+Total Trades: 247
+Week Fees: $445.05
+Current Cash: $524,756.07
+Active Positions: 0
+Cumulative Return: +4.95%
+
+Per-Ticker P&L:
+  AAPL: $1,169.17
+  BAC: $-226.05
+  META: $986.84
+  NFLX: $9,737.06
+  NVDA: $-44.99
+  PFE: $189.26
+  PLTR: $2,355.43
+  TSLA: $2,608.07
+  UBER: $1,580.10
+  V: $39.48
+----------------------------------------
+
+WEEK 4: 2025-01-26 to 2025-02-01
+----------------------------------------
+Starting Portfolio Value: $524,756.07
+Ending Portfolio Value: $533,624.52
+Week Return: +1.69%
+Weekly Profit: $8,868.46 (+1.69%)
+Total Trades: 266
+Week Fees: $354.68
+Current Cash: $533,624.52
+Active Positions: 0
+Cumulative Return: +6.72%
+
+Per-Ticker P&L:
+  AAPL: $4,029.83
+  BAC: $1,053.92
+  META: $-391.82
+  NFLX: $0.00
+  NVDA: $2,101.35
+  PFE: $-626.14
+  PLTR: $-1,238.85
+  TSLA: $2,337.50
+  UBER: $1,764.34
+  V: $0.00
+----------------------------------------
+
+WEEK 5: 2025-02-02 to 2025-02-08
+----------------------------------------
+Starting Portfolio Value: $533,624.52
+Ending Portfolio Value: $547,214.44
+Week Return: +2.55%
+Weekly Profit: $13,589.92 (+2.55%)
+Total Trades: 225
+Week Fees: $408.94
+Current Cash: $547,214.44
+Active Positions: 0
+Cumulative Return: +9.44%
+
+Per-Ticker P&L:
+  AAPL: $1,118.07
+  BAC: $985.95
+  META: $0.00
+  NFLX: $0.00
+  NVDA: $2,818.65
+  PFE: $6,155.45
+  PLTR: $703.40
+  TSLA: $1,131.99
+  UBER: $862.81
+  V: $0.00
+----------------------------------------
+
+WEEK 6: 2025-02-09 to 2025-02-15
+----------------------------------------
+Starting Portfolio Value: $547,214.44
+Ending Portfolio Value: $545,754.31
+Week Return: -0.27%
+Weekly Profit: $-1,460.13 (-0.27%)
+Total Trades: 151
+Week Fees: $348.99
+Current Cash: $545,754.31
+Active Positions: 0
+Cumulative Return: +9.15%
+
+Per-Ticker P&L:
+  AAPL: $-813.97
+  BAC: $-41.06
+  META: $0.00
+  NFLX: $0.00
+  NVDA: $-888.70
+  PFE: $161.06
+  PLTR: $0.00
+  TSLA: $281.62
+  UBER: $0.00
+  V: $0.00
+----------------------------------------
+
+WEEK 7: 2025-02-16 to 2025-02-22
+----------------------------------------
+Starting Portfolio Value: $545,754.31
+Ending Portfolio Value: $544,951.56
+Week Return: -0.15%
+Weekly Profit: $-802.75 (-0.15%)
+Total Trades: 129
+Week Fees: $317.08
+Current Cash: $544,951.56
+Active Positions: 0
+Cumulative Return: +8.99%
+
+Per-Ticker P&L:
+  AAPL: $49.14
+  BAC: $-2,199.01
+  META: $0.00
+  NFLX: $0.00
+  NVDA: $2,313.94
+  PFE: $-431.60
+  PLTR: $0.00
+  TSLA: $-390.69
+  UBER: $0.00
+  V: $0.00
+----------------------------------------
+
+WEEK 8: 2025-02-23 to 2025-03-01
+----------------------------------------
+Starting Portfolio Value: $544,951.56
+Ending Portfolio Value: $548,079.01
+Week Return: +0.57%
+Weekly Profit: $3,127.45 (+0.57%)
+Total Trades: 397
+Week Fees: $430.20
+Current Cash: $548,079.01
+Active Positions: 0
+Cumulative Return: +9.62%
+
+Per-Ticker P&L:
+  AAPL: $494.48
+  BAC: $-212.29
+  META: $-788.25
+  NFLX: $806.60
+  NVDA: $-823.64
+  PFE: $194.57
+  PLTR: $2,657.76
+  TSLA: $921.67
+  UBER: $0.00
+  V: $72.63
+----------------------------------------
+
+WEEK 9: 2025-03-02 to 2025-03-08
+----------------------------------------
+Starting Portfolio Value: $548,078.67
+Ending Portfolio Value: $547,472.40
+Week Return: -0.11%
+Weekly Profit: $-606.61 (-0.11%)
+Total Trades: 472
+Week Fees: $578.38
+Current Cash: $547,472.40
+Active Positions: 0
+Cumulative Return: +9.49%
+
+Per-Ticker P&L:
+  AAPL: $1,064.07
+  BAC: $-277.13
+  META: $1,616.45
+  NFLX: $-1,579.30
+  NVDA: $-542.45
+  PFE: $1,514.28
+  PLTR: $-1,902.52
+  TSLA: $1,243.01
+  UBER: $-1,263.60
+  V: $-215.62
+----------------------------------------
+
+WEEK 10: 2025-03-09 to 2025-03-15
+----------------------------------------
+Starting Portfolio Value: $547,470.76
+Ending Portfolio Value: $568,637.80
+Week Return: +3.87%
+Weekly Profit: $21,165.40 (+3.87%)
+Total Trades: 500
+Week Fees: $674.81
+Current Cash: $568,637.80
+Active Positions: 0
+Cumulative Return: +13.73%
+
+Per-Ticker P&L:
+  AAPL: $903.77
+  BAC: $6,925.83
+  META: $235.44
+  NFLX: $1,538.05
+  NVDA: $3,117.94
+  PFE: $-92.92
+  PLTR: $4,972.94
+  TSLA: $6,905.43
+  UBER: $-1,662.40
+  V: $-1,370.32
+----------------------------------------
+
+WEEK 11: 2025-03-16 to 2025-03-22
+----------------------------------------
+Starting Portfolio Value: $568,634.65
+Ending Portfolio Value: $579,120.31
+Week Return: +1.84%
+Weekly Profit: $10,482.51 (+1.84%)
+Total Trades: 447
+Week Fees: $597.12
+Current Cash: $579,120.31
+Active Positions: 0
+Cumulative Return: +15.82%
+
+Per-Ticker P&L:
+  AAPL: $2,462.10
+  BAC: $1,820.02
+  META: $408.77
+  NFLX: $1,058.73
+  NVDA: $2,336.14
+  PFE: $1,122.09
+  PLTR: $2,118.17
+  TSLA: $-1,359.30
+  UBER: $-1,131.07
+  V: $1,920.48
+----------------------------------------
+
+WEEK 12: 2025-03-23 to 2025-03-29
+----------------------------------------
+Starting Portfolio Value: $579,120.31
+Ending Portfolio Value: $588,989.58
+Week Return: +1.70%
+Weekly Profit: $9,869.26 (+1.70%)
+Total Trades: 352
+Week Fees: $681.75
+Current Cash: $588,989.58
+Active Positions: 0
+Cumulative Return: +17.80%
+
+Per-Ticker P&L:
+  AAPL: $1,539.84
+  BAC: $-609.68
+  META: $2,505.39
+  NFLX: $-1,107.30
+  NVDA: $1,817.25
+  PFE: $-763.77
+  PLTR: $63.68
+  TSLA: $3,621.67
+  UBER: $2,482.34
+  V: $630.60
+----------------------------------------
+
+WEEK 13: 2025-03-30 to 2025-04-05
+----------------------------------------
+Starting Portfolio Value: $588,989.58
+Ending Portfolio Value: $580,339.02
+Week Return: -1.47%
+Weekly Profit: $-8,650.56 (-1.47%)
+Total Trades: 661
+Week Fees: $1,280.14
+Current Cash: $580,339.02
+Active Positions: 0
+Cumulative Return: +16.07%
+
+Per-Ticker P&L:
+  AAPL: $58.65
+  BAC: $271.10
+  META: $-4,442.14
+  NFLX: $-191.75
+  NVDA: $-2,216.75
+  PFE: $-265.66
+  PLTR: $1,375.77
+  TSLA: $2,749.61
+  UBER: $-4,128.86
+  V: $-1,277.00
+----------------------------------------
+
+WEEK 14: 2025-04-06 to 2025-04-12
+----------------------------------------
+Starting Portfolio Value: $580,338.59
+Ending Portfolio Value: $626,974.06
+Week Return: +8.04%
+Weekly Profit: $46,635.04 (+8.04%)
+Total Trades: 542
+Week Fees: $1,215.73
+Current Cash: $626,974.06
+Active Positions: 0
+Cumulative Return: +25.39%
+
+Per-Ticker P&L:
+  AAPL: $-4,428.17
+  BAC: $2,382.43
+  META: $2,896.66
+  NFLX: $9,152.00
+  NVDA: $2,722.40
+  PFE: $305.31
+  PLTR: $-1,101.53
+  TSLA: $4,031.94
+  UBER: $9,699.22
+  V: $21,529.15
+----------------------------------------
+
+WEEK 15: 2025-04-13 to 2025-04-19
+----------------------------------------
+Starting Portfolio Value: $626,974.06
+Ending Portfolio Value: $632,803.44
+Week Return: +0.93%
+Weekly Profit: $5,829.39 (+0.93%)
+Total Trades: 461
+Week Fees: $719.66
+Current Cash: $632,803.44
+Active Positions: 0
+Cumulative Return: +26.56%
+
+Per-Ticker P&L:
+  AAPL: $210.79
+  BAC: $-650.85
+  META: $-2,150.88
+  NFLX: $2,013.74
+  NVDA: $1,433.82
+  PFE: $-840.93
+  PLTR: $215.15
+  TSLA: $3,076.34
+  UBER: $1,359.06
+  V: $1,491.18
+----------------------------------------
+
+WEEK 16: 2025-04-20 to 2025-04-26
+----------------------------------------
+Starting Portfolio Value: $632,803.35
+Ending Portfolio Value: $631,279.20
+Week Return: -0.24%
+Weekly Profit: $-1,524.24 (-0.24%)
+Total Trades: 429
+Week Fees: $1,004.30
+Current Cash: $631,279.20
+Active Positions: 0
+Cumulative Return: +26.26%
+
+Per-Ticker P&L:
+  AAPL: $393.36
+  BAC: $882.01
+  META: $1,498.95
+  NFLX: $1,815.58
+  NVDA: $-1,347.39
+  PFE: $-2,520.81
+  PLTR: $-4,691.67
+  TSLA: $-237.08
+  UBER: $-105.64
+  V: $3,246.27
+----------------------------------------
+
+WEEK 17: 2025-04-27 to 2025-05-03
+----------------------------------------
+Starting Portfolio Value: $631,279.20
+Ending Portfolio Value: $635,832.25
+Week Return: +0.72%
+Weekly Profit: $4,553.05 (+0.72%)
+Total Trades: 328
+Week Fees: $647.16
+Current Cash: $635,832.25
+Active Positions: 0
+Cumulative Return: +27.17%
+
+Per-Ticker P&L:
+  AAPL: $172.74
+  BAC: $2,359.76
+  META: $575.82
+  NFLX: $0.00
+  NVDA: $2,289.17
+  PFE: $-1,779.66
+  PLTR: $-1,659.87
+  TSLA: $-854.86
+  UBER: $1,239.03
+  V: $2,505.91
+----------------------------------------
+
+WEEK 18: 2025-05-04 to 2025-05-10
+----------------------------------------
+Starting Portfolio Value: $635,832.25
+Ending Portfolio Value: $633,458.51
+Week Return: -0.37%
+Weekly Profit: $-2,373.74 (-0.37%)
+Total Trades: 263
+Week Fees: $655.34
+Current Cash: $633,458.51
+Active Positions: 0
+Cumulative Return: +26.69%
+
+Per-Ticker P&L:
+  AAPL: $-2,411.06
+  BAC: $3,099.70
+  META: $925.73
+  NFLX: $0.00
+  NVDA: $2,080.34
+  PFE: $-2,109.28
+  PLTR: $-1,154.13
+  TSLA: $-1,134.74
+  UBER: $0.00
+  V: $-1,371.58
+----------------------------------------
+
+WEEK 19: 2025-05-11 to 2025-05-17
+----------------------------------------
+Starting Portfolio Value: $633,458.51
+Ending Portfolio Value: $642,359.71
+Week Return: +1.41%
+Weekly Profit: $8,901.20 (+1.41%)
+Total Trades: 194
+Week Fees: $489.87
+Current Cash: $642,359.71
+Active Positions: 0
+Cumulative Return: +28.47%
+
+Per-Ticker P&L:
+  AAPL: $1,294.97
+  BAC: $-260.77
+  META: $2,027.70
+  NFLX: $0.00
+  NVDA: $4,736.03
+  PFE: $-2,538.81
+  PLTR: $-1,940.76
+  TSLA: $4,262.95
+  UBER: $0.00
+  V: $1,543.19
+----------------------------------------
+
+WEEK 20: 2025-05-18 to 2025-05-24
+----------------------------------------
+Starting Portfolio Value: $642,359.71
+Ending Portfolio Value: $639,344.87
+Week Return: -0.47%
+Weekly Profit: $-3,014.84 (-0.47%)
+Total Trades: 200
+Week Fees: $412.77
+Current Cash: $639,344.87
+Active Positions: 0
+Cumulative Return: +27.87%
+
+Per-Ticker P&L:
+  AAPL: $-2,554.54
+  BAC: $-141.20
+  META: $319.53
+  NFLX: $0.00
+  NVDA: $-933.40
+  PFE: $587.52
+  PLTR: $0.00
+  TSLA: $-763.15
+  UBER: $0.00
+  V: $658.55
+----------------------------------------
+
+WEEK 21: 2025-05-25 to 2025-05-31
+----------------------------------------
+Starting Portfolio Value: $639,344.87
+Ending Portfolio Value: $646,636.98
+Week Return: +1.14%
+Weekly Profit: $7,292.12 (+1.14%)
+Total Trades: 157
+Week Fees: $458.62
+Current Cash: $646,636.98
+Active Positions: 0
+Cumulative Return: +29.33%
+
+Per-Ticker P&L:
+  AAPL: $2,795.77
+  BAC: $-845.86
+  META: $2,309.56
+  NFLX: $0.00
+  NVDA: $0.00
+  PFE: $697.91
+  PLTR: $411.86
+  TSLA: $0.00
+  UBER: $2,200.52
+  V: $-68.60
+----------------------------------------
+
+WEEK 22: 2025-06-01 to 2025-06-07
+----------------------------------------
+Starting Portfolio Value: $646,636.98
+Ending Portfolio Value: $649,885.04
+Week Return: +0.50%
+Weekly Profit: $3,248.05 (+0.50%)
+Total Trades: 168
+Week Fees: $545.05
+Current Cash: $649,885.04
+Active Positions: 0
+Cumulative Return: +29.98%
+
+Per-Ticker P&L:
+  AAPL: $201.93
+  BAC: $990.49
+  META: $81.51
+  NFLX: $0.00
+  NVDA: $0.00
+  PFE: $1,878.11
+  PLTR: $-444.39
+  TSLA: $-25.74
+  UBER: $814.60
+  V: $0.00
+----------------------------------------
+
+WEEK 23: 2025-06-08 to 2025-06-14
+----------------------------------------
+Starting Portfolio Value: $649,885.04
+Ending Portfolio Value: $657,377.82
+Week Return: +1.15%
+Weekly Profit: $7,492.78 (+1.15%)
+Total Trades: 195
+Week Fees: $331.44
+Current Cash: $657,377.82
+Active Positions: 0
+Cumulative Return: +31.48%
+
+Per-Ticker P&L:
+  AAPL: $366.19
+  BAC: $1,353.34
+  META: $0.00
+  NFLX: $123.40
+  NVDA: $0.00
+  PFE: $1,467.12
+  PLTR: $1,463.40
+  TSLA: $1,437.67
+  UBER: $2,429.71
+  V: $-996.98
+----------------------------------------
+
+WEEK 24: 2025-06-15 to 2025-06-21
+----------------------------------------
+Starting Portfolio Value: $657,377.82
+Ending Portfolio Value: $660,334.96
+Week Return: +0.45%
+Weekly Profit: $2,957.15 (+0.45%)
+Total Trades: 175
+Week Fees: $474.81
+Current Cash: $660,334.96
+Active Positions: 0
+Cumulative Return: +32.07%
+
+Per-Ticker P&L:
+  AAPL: $150.54
+  BAC: $373.62
+  META: $0.00
+  NFLX: $0.00
+  NVDA: $-967.80
+  PFE: $-440.86
+  PLTR: $0.00
+  TSLA: $1,835.25
+  UBER: $1,648.28
+  V: $574.53
+----------------------------------------
+
+WEEK 25: 2025-06-22 to 2025-06-28
+----------------------------------------
+Starting Portfolio Value: $660,334.47
+Ending Portfolio Value: $659,793.06
+Week Return: -0.08%
+Weekly Profit: $-541.90 (-0.08%)
+Total Trades: 248
+Week Fees: $421.49
+Current Cash: $659,793.06
+Active Positions: 0
+Cumulative Return: +31.96%
+
+Per-Ticker P&L:
+  AAPL: $268.04
+  BAC: $0.00
+  META: $-667.61
+  NFLX: $1,043.84
+  NVDA: $253.07
+  PFE: $368.95
+  PLTR: $0.00
+  TSLA: $-3,673.47
+  UBER: $4,627.22
+  V: $-2,569.60
+----------------------------------------
+
+WEEK 26: 2025-06-29 to 2025-07-05
+----------------------------------------
+Starting Portfolio Value: $659,786.94
+Ending Portfolio Value: $668,066.25
+Week Return: +1.25%
+Weekly Profit: $8,273.18 (+1.25%)
+Total Trades: 154
+Week Fees: $226.44
+Current Cash: $668,066.25
+Active Positions: 0
+Cumulative Return: +33.61%
+
+Per-Ticker P&L:
+  AAPL: $-272.17
+  BAC: $0.00
+  META: $0.00
+  NFLX: $0.00
+  NVDA: $0.00
+  PFE: $621.16
+  PLTR: $3,406.24
+  TSLA: $3,321.52
+  UBER: $-643.48
+  V: $1,945.94
+----------------------------------------
+
+WEEK 27: 2025-07-06 to 2025-07-12
+----------------------------------------
+Starting Portfolio Value: $668,066.25
+Ending Portfolio Value: $671,023.39
+Week Return: +0.44%
+Weekly Profit: $2,957.15 (+0.44%)
+Total Trades: 134
+Week Fees: $66.54
+Current Cash: $671,023.39
+Active Positions: 0
+Cumulative Return: +34.20%
+
+Per-Ticker P&L:
+  AAPL: $783.02
+  BAC: $0.00
+  META: $0.00
+  NFLX: $-475.24
+  NVDA: $0.00
+  PFE: $0.00
+  PLTR: $-623.50
+  TSLA: $-20.62
+  UBER: $0.00
+  V: $3,323.81
+----------------------------------------
+
+WEEK 28: 2025-07-13 to 2025-07-19
+----------------------------------------
+Starting Portfolio Value: $671,023.39
+Ending Portfolio Value: $673,245.37
+Week Return: +0.33%
+Weekly Profit: $2,221.98 (+0.33%)
+Total Trades: 228
+Week Fees: $506.26
+Current Cash: $673,245.37
+Active Positions: 0
+Cumulative Return: +34.65%
+
+Per-Ticker P&L:
+  AAPL: $-296.56
+  BAC: $-722.45
+  META: $262.96
+  NFLX: $-2,130.77
+  NVDA: $0.00
+  PFE: $1,533.79
+  PLTR: $2,330.81
+  TSLA: $803.97
+  UBER: $-187.11
+  V: $858.11
+----------------------------------------
+
+WEEK 29: 2025-07-20 to 2025-07-26
+----------------------------------------
+Starting Portfolio Value: $673,245.37
+Ending Portfolio Value: $673,963.15
+Week Return: +0.11%
+Weekly Profit: $717.78 (+0.11%)
+Total Trades: 185
+Week Fees: $268.30
+Current Cash: $673,963.15
+Active Positions: 0
+Cumulative Return: +34.79%
+
+Per-Ticker P&L:
+  AAPL: $229.10
+  BAC: $-498.81
+  META: $1,314.07
+  NFLX: $-975.32
+  NVDA: $0.00
+  PFE: $21.31
+  PLTR: $0.00
+  TSLA: $798.13
+  UBER: $-595.42
+  V: $547.03
+----------------------------------------
+
+WEEK 30: 2025-07-27 to 2025-08-02
+----------------------------------------
+Starting Portfolio Value: $673,963.15
+Ending Portfolio Value: $679,426.78
+Week Return: +0.81%
+Weekly Profit: $5,463.63 (+0.81%)
+Total Trades: 275
+Week Fees: $528.55
+Current Cash: $679,426.78
+Active Positions: 0
+Cumulative Return: +35.89%
+
+Per-Ticker P&L:
+  AAPL: $262.48
+  BAC: $739.17
+  META: $422.56
+  NFLX: $1,192.98
+  NVDA: $0.00
+  PFE: $-2,737.65
+  PLTR: $0.00
+  TSLA: $1,692.31
+  UBER: $2,450.70
+  V: $1,682.00
+----------------------------------------
+
+WEEK 31: 2025-08-03 to 2025-08-09
+----------------------------------------
+Starting Portfolio Value: $679,426.78
+Ending Portfolio Value: $690,626.70
+Week Return: +1.65%
+Weekly Profit: $11,199.92 (+1.65%)
+Total Trades: 213
+Week Fees: $328.41
+Current Cash: $690,626.70
+Active Positions: 0
+Cumulative Return: +38.13%
+
+Per-Ticker P&L:
+  AAPL: $-84.87
+  BAC: $-1,731.23
+  META: $0.00
+  NFLX: $-580.97
+  NVDA: $0.00
+  PFE: $-890.52
+  PLTR: $0.00
+  TSLA: $881.30
+  UBER: $9,637.00
+  V: $4,118.91
+----------------------------------------
+
+WEEK 32: 2025-08-10 to 2025-08-16
+----------------------------------------
+Starting Portfolio Value: $690,626.39
+Ending Portfolio Value: $696,013.57
+Week Return: +0.78%
+Weekly Profit: $5,386.87 (+0.78%)
+Total Trades: 220
+Week Fees: $487.71
+Current Cash: $696,013.57
+Active Positions: 0
+Cumulative Return: +39.20%
+
+Per-Ticker P&L:
+  AAPL: $0.00
+  BAC: $-129.38
+  META: $0.00
+  NFLX: $737.14
+  NVDA: $0.00
+  PFE: $3,018.83
+  PLTR: $0.00
+  TSLA: $-1,134.36
+  UBER: $2,157.92
+  V: $959.18
+----------------------------------------
+
+WEEK 33: 2025-08-17 to 2025-08-23
+----------------------------------------
+Starting Portfolio Value: $696,013.57
+Ending Portfolio Value: $697,956.95
+Week Return: +0.28%
+Weekly Profit: $1,943.37 (+0.28%)
+Total Trades: 258
+Week Fees: $336.16
+Current Cash: $697,956.95
+Active Positions: 0
+Cumulative Return: +39.59%
+
+Per-Ticker P&L:
+  AAPL: $0.00
+  BAC: $844.35
+  META: $-215.58
+  NFLX: $1,165.06
+  NVDA: $-1,601.22
+  PFE: $421.92
+  PLTR: $488.78
+  TSLA: $464.65
+  UBER: $1,418.68
+  V: $-890.02
+----------------------------------------
+
+WEEK 34: 2025-08-24 to 2025-08-30
+----------------------------------------
+Starting Portfolio Value: $697,956.95
+Ending Portfolio Value: $701,660.66
+Week Return: +0.53%
+Weekly Profit: $3,703.72 (+0.53%)
+Total Trades: 276
+Week Fees: $430.71
+Current Cash: $701,660.66
+Active Positions: 0
+Cumulative Return: +40.33%
+
+Per-Ticker P&L:
+  AAPL: $0.00
+  BAC: $0.00
+  META: $-993.45
+  NFLX: $-968.11
+  NVDA: $-581.31
+  PFE: $3,282.31
+  PLTR: $-1,852.16
+  TSLA: $2,045.29
+  UBER: $1,841.54
+  V: $1,125.92
+----------------------------------------
+
+WEEK 35: 2025-08-31 to 2025-09-06
+----------------------------------------
+Starting Portfolio Value: $701,660.66
+Ending Portfolio Value: $702,113.25
+Week Return: +0.06%
+Weekly Profit: $452.59 (+0.06%)
+Total Trades: 188
+Week Fees: $242.45
+Current Cash: $702,113.25
+Active Positions: 0
+Cumulative Return: +40.42%
+
+Per-Ticker P&L:
+  AAPL: $52.57
+  BAC: $0.00
+  META: $-974.04
+  NFLX: $412.11
+  NVDA: $-818.20
+  PFE: $97.92
+  PLTR: $-1,463.74
+  TSLA: $2,139.11
+  UBER: $1,429.50
+  V: $-312.14
+----------------------------------------
+
+WEEK 36: 2025-09-07 to 2025-09-13
+----------------------------------------
+Starting Portfolio Value: $702,113.25
+Ending Portfolio Value: $710,593.20
+Week Return: +1.21%
+Weekly Profit: $8,479.95 (+1.21%)
+Total Trades: 245
+Week Fees: $359.78
+Current Cash: $710,593.20
+Active Positions: 0
+Cumulative Return: +42.12%
+
+Per-Ticker P&L:
+  AAPL: $325.78
+  BAC: $0.00
+  META: $19.42
+  NFLX: $3,236.43
+  NVDA: $55.03
+  PFE: $-1,411.23
+  PLTR: $1,048.66
+  TSLA: $1,993.78
+  UBER: $3,168.16
+  V: $207.91
+----------------------------------------
+
+WEEK 37: 2025-09-14 to 2025-09-19
+----------------------------------------
+Starting Portfolio Value: $710,593.20
+Ending Portfolio Value: $709,650.75
+Week Return: -0.13%
+Weekly Profit: $-942.45 (-0.13%)
+Total Trades: 202
+Week Fees: $342.95
+Current Cash: $709,650.75
+Active Positions: 0
+Cumulative Return: +41.93%
+
+Per-Ticker P&L:
+  AAPL: $0.00
+  BAC: $0.00
+  META: $403.59
+  NFLX: $1,152.39
+  NVDA: $1,928.47
+  PFE: $459.43
+  PLTR: $-475.64
+  TSLA: $0.00
+  UBER: $-4,101.99
+  V: $-152.38
+----------------------------------------
