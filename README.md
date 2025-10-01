@@ -23,6 +23,49 @@ A sophisticated high-frequency trading system that combines XGBoost machine lear
 - **Per-Ticker P&L Tracking**: Individual performance metrics for each stock
 - **Comprehensive Reporting**: Weekly summaries with cumulative statistics
 
+## Planned Integration with Portfolio Manager (Submodule)
+
+The trading system is designed to integrate with the [Portfolio Manager](./portfolio-manager) submodule to create a complete trading platform. While the core trading engine and portfolio manager currently operate independently, here's the planned integration architecture:
+
+### Integration Roadmap (Time Permitting)
+
+#### Unified Data Pipeline
+- **Shared Market Data**: Both systems pull from Yahoo Finance - integration would create a single data fetching layer with caching to reduce API calls
+- **Real-time Feed**: Portfolio positions would feed directly into the XGBoost prediction pipeline
+- **Historical Alignment**: Backtest data would sync with portfolio historical holdings for accurate performance attribution
+
+#### Authentication Bridge
+- **Single Sign-On**: Leverage portfolio manager's `SHA256+salt` authentication for trading system access
+- **User Strategy Profiles**: Each authenticated user would have personalized strategy configurations
+- **Portfolio-Strategy Mapping**: Link specific portfolios to different trading strategies (intraday portfolios → high-frequency VWAP, interday → swing trading)
+
+#### Execution Integration
+- **Live Portfolio Trading**: Apply 4-signal ensemble (MACD/RSI/Bollinger) directly to portfolio holdings
+- **Position Management**: Pyramid trading would automatically scale existing portfolio positions
+- **Risk Limits**: Portfolio-level stop-loss and capital allocation rules would govern all trades
+
+#### Database Synchronization
+- **Unified Schema**: Extend portfolio manager's MySQL schema with:
+  - `trading_signals` table for ML predictions
+  - `execution_history` for VWAP trades
+  - `backtest_results` linked to portfolio configurations
+- **Transaction Tracking**: Every trade would update both the trading engine and portfolio holdings atomically
+
+#### Comprehensive Reporting
+- **Merged Analytics**: Combined dashboard showing portfolio performance + strategy effectiveness
+- **Attribution Analysis**: Break down returns by strategy component vs. portfolio selection
+- **Risk Metrics**: Unified risk reporting across all portfolios and strategies
+
+### Current State
+- Trading system with VWAP execution and ML predictions (standalone)
+- Portfolio manager with multi-user support and real-time data (submodule)
+- Integration layer (planned - would unify both systems)
+
+### To Add the Portfolio Manager Submodule:
+```bash
+git submodule add https://github.com/tanyacharan/dsci560-lab3.git portfolio-manager
+git submodule update --init --recursive
+
 ## Performance Features
 
 ### Real-Time Monitoring
