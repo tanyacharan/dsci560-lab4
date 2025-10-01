@@ -25,7 +25,7 @@ A sophisticated high-frequency trading system that combines XGBoost machine lear
 
 ## Planned Integration with Portfolio Manager (Submodule)
 
-The trading system is designed to integrate with the [Portfolio Manager](./portfolio-manager) submodule to create a complete trading platform. While the core trading engine and portfolio manager currently operate independently, here's the planned integration architecture:
+The trading system is designed to integrate with the [Portfolio Manager](./portfolio_manager) submodule to create a complete trading platform. While the core trading engine and portfolio manager currently operate independently, here's the planned integration architecture:
 
 ### Integration Roadmap (Time Permitting)
 
