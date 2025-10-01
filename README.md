@@ -14,7 +14,7 @@ A sophisticated high-frequency trading system that combines XGBoost machine lear
 ### Risk Management
 - **Real-time Stop Loss**: Automatic position exit when losses exceed variable thresholds
 - **End-of-Day Logic**: Forced liquidation at 3:55 PM, cut losses at 3:50 PM
-- **Dynamic Capital Allocation**: 6% for tech stocks, 9% for non-tech stocks
+- **Sector-Based Capital Allocation**: Configurable risk limits per stock category (currently tech/non-tech sectors via `.env`, supports custom schemes in the future)
 - **Transaction Cost Modeling**: Realistic Alpaca fee structure ($0.001/share + regulatory fees)
 
 ### Rolling Backtest System
