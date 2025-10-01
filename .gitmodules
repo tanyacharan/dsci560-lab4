@@ -1,0 +1,3 @@
+[submodule "portfolio_manager"]
+	path = portfolio_manager
+	url = https://github.com/tanyacharan/dsci560-lab3
